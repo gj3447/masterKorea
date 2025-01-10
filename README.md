@@ -1,5 +1,3 @@
-# masterKorea
-
 <div>
   <input id="tab1" type="radio" name="tabs" checked>
   <label for="tab1">Tab 1</label>
@@ -20,9 +18,6 @@
 </div>
 
 <style>
-  div {
-    font-family: Arial, sans-serif;
-  }
   input[type="radio"] {
     display: none;
   }
